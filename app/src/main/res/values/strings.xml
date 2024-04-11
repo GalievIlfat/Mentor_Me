@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mentor Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String value for AuthorizationFragment-->
+    <string name="hintTextPassword">Enter password</string>
+    <string name="hintTextLogin">Enter login</string>
+    <string name="welcomeText">Welcome Back</string>
+    <string name="signInContinueText">Sign in to continue</string>
+    <string name="ForgotPasswordText">Forgot password?</string>
+    <string name="DontHaveAccountText">Don’t have account?</string>
+    <string name="createANewAccountText">create a new account</string>
+</resources>
